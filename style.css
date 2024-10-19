@@ -1,0 +1,383 @@
+.Navbar{
+    background-color: black;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    position: sticky;
+    top: 0;
+    
+}
+.kk{
+  border-radius: 50px;
+}
+.jj{
+    background-color: red;
+    width: 20px;
+    border-radius: 40px;
+    
+}
+#dd{
+    border-radius: 35px;
+    
+    width: 450px;
+    height: 40px;
+    background: rgba(52, 52, 52, 0.5);
+  backdrop-filter: blur(1px);
+  border: none;
+  
+  font-size: 19px;
+  text-align:center;
+  position: sticky;
+  top: 0;
+  color:aliceblue;
+  
+
+
+
+
+  
+ 
+ 
+   
+    
+}
+.nn{
+    border-radius: 30px;
+    font-weight: bold;
+}
+
+.exp{
+    
+}
+.xx{
+    background: rgba(52, 52, 52, 0.5);
+    backdrop-filter: blur(2px);
+    
+    
+    height: 45px;
+    width: 50px;
+    border-radius: 20px;
+    
+}
+.m{
+    height: 40px;
+    margin-left: 5px;
+    margin-top: 3px;
+}
+.pic{
+
+
+}
+
+
+ .bar{
+    
+    width: 390px;
+    border-radius: 10px;
+    height: 530px;
+    background: rgba(30, 30, 30, 0.5);
+    background: rgba(52, 52, 52, 0.5);
+    backdrop-filter: blur(1px);
+    background-attachment: fixed;
+    margin: 10px;
+   position: fixed;
+   
+ }
+ .ff{
+    font-weight: bold;
+    font-size: 20px;
+    color: aliceblue;
+ }
+ .vv{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    
+   
+ } 
+ .sides{
+    display: flex;
+    justify-content:start;
+
+    /* background-image: url('https://th.bing.com/th/id/R.9e0f40a2190806747addd2971b639347?rik=6ZQV%2f20yd%2b20pA&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f05%2fFantastic-HD-Black-Wallpapers.jpg&ehk=ieL0e5%2fH5LxQzuaX9QjOqNcueGl4CaXLDUx9YfKL3Ws%3d&risl=&pid=ImgRaw&r=0'); */
+    height: 2900px;
+    background-color: black;
+    
+    
+    
+ }
+.ee{
+    border-radius: 40px;
+    color: black;
+    font-weight: bold;
+    height: 30px;
+    margin: 5px;
+}
+.ii{
+    margin: 20px;
+     background: rgba(52, 52, 52, 0.5);
+    backdrop-filter: blur(1px);
+    border-radius: 10px; 
+    
+}
+.text{
+    color: white;
+    font-size: 15px;
+}
+.dm{
+    
+    border-radius: 10px;
+    padding: 20px;
+    background: rgba(52, 52, 52, 0.5);
+    backdrop-filter: blur(1px);
+
+}
+.open{
+    color: white;
+    font-size: 13px;
+    font-weight: 400;
+}
+.playlists{
+    display: flex;
+    justify-content:start;
+    /* padding: 20px; */
+  
+   
+   
+
+
+
+    
+}
+.min{
+    height: 50px;
+    width:80px;
+     border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px; 
+}
+.row{
+  margin: 5px;
+   background: rgba(52, 52, 52, 0.5);
+  backdrop-filter: blur(1px);  
+  
+  width: 250px;
+  display: flex;
+  justify-content:start ;
+  height: 50px;
+  border-radius: 5px;
+  cursor: pointer;
+  
+  
+   
+  
+   
+}
+.dfd{
+    color: white;
+}
+.hope{
+   
+    height: px;
+    display: flex;
+    justify-content:start;
+    /* padding: 20px; */
+    
+}
+.sec{
+    background: rgba(52, 52, 52, 0.5);
+    backdrop-filter: blur(1px);
+    width:100%;
+    height: 2811px;
+    border-radius:10px;
+    margin: 5px;
+    /* margin-right: 10px; */
+    margin-left: 410px;
+    margin-right: 20px;
+    overflow: scroll;
+
+   
+}
+.sec::-webkit-scrollbar{
+    display: none;
+}
+#llp{
+    background: rgba(34, 33, 33, 0.5);
+    backdrop-filter: blur(1px);
+    height: 60px;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+   position: sticky;
+   top: 0;
+   width: 100%;
+   margin: -1px;
+}
+.just{
+    color: white;
+    font-weight: bold;
+
+}
+.ty{
+    margin: 14px;
+}
+.fayaz{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+}
+.lin{
+    color: aliceblue;
+    text-decoration: none;
+}
+.made{
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
+}
+.show{
+    padding: 10px;
+}
+/* .last{
+    background-color: black;
+    height: 500px;
+    position: fixed;
+    
+} */
+
+
+.card{
+    margin: 17px;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgba(52, 52, 52, 0.5);
+    backdrop-filter: blur(1px);
+    width: 151px;
+    border-radius:20px ;
+    transition: all 0.4s;
+    position: relative;
+    cursor: pointer;
+}
+.frt{
+    display: flex;
+    justify-content: start;
+    flex-direction: row;
+}
+.feel{
+    width: 130px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+    
+}
+.text h6{
+    margin-top: 0.5rem;
+}
+.text p{
+    font-weight:200;
+}
+.play-icon{
+    position: absolute;
+    top: 45%;
+    right: 12%;
+    transform: translateY(10px);
+    filter: drop-shadow(0 0.5rem 1rem rgba(0,0,0,0.4) );
+   opacity: 0;
+   transition: all 0.4s;
+}
+.circle{
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 50%;
+    background-color: rgba(50,233,50);
+    display: grid;
+    place-items:center;
+
+
+}
+.card:hover .play-icon{
+    opacity: 1;
+    transform: translateY(0);
+
+}
+.card:hover{
+    background: rgba(38, 37, 37, 0.5);
+    backdrop-filter: blur(1px);
+}
+.triangle{
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 18px solid transparent;
+    transform: rotate(90deg);
+    margin-left: 0.2rem;
+    border-bottom: 18px solid black;
+}
+.play-icon{
+    cursor:auto;
+    transform: scale(1);
+}
+.leef{
+    width: 130px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+    height: 120px;
+}
+.text h6{
+    margin-left: 27px;
+}
+.text p{
+    margin-left: 15px;
+}
+.sm{
+    border-radius: 40px;
+font-weight: bold;
+border: none;
+}
+#llp{
+    display: flex;
+    justify-content: start;
+    padding: 9px;
+}
+.qw{
+    margin: 5px;
+}
+.sm:hover{
+    background: rgba(38, 37, 37, 0.5);
+    backdrop-filter: blur(1px);
+
+    
+}
+.any{
+    color: white;
+    font-weight: bold;
+}
+.company .ip{
+    font-weight: 300;
+    color: aliceblue;
+    
+}
+.footer{
+    display: flex;
+    justify-content:start;
+    
+}
+.company{
+    margin: 60px;
+}
+hr{
+    
+    color: white;
+    margin: 25px;
+    
+}
+.oi{
+    color: aliceblue;
+    font-weight: 200;
+    font-size: 14px;
+}
+.lis{
+    display: flex;
+    justify-content: space-evenly;
+}
